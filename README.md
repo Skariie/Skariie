@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, i’m Léandro! 👋</h1>
 
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=piposurgithub&color=orange&style=flat-square" alt="Skariie"/></p>
-
 - 🔭 I’m currently working on <a href="https://axial-host.fr/" target="blank">Axial-Host</a>
 - 🌱 I’m currently learning development
 - 👦 In real life, my name is Léandro !
